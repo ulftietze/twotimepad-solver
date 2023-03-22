@@ -10,3 +10,9 @@ probably also in 7.4, 8.0 and 8.1.
 ```shell
 php decrypt.php ../examples/msg*.asc
 ```
+
+or
+
+```shell
+php decrypt.php ./examples/msg1.asc ./examples/msg2.asc
+```
